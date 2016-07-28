@@ -34,6 +34,14 @@
 	display: none; 
 }
 
+/*STYLES FOR TEXT AND LINKS*/
+h1,h2,h3,h4,h5,h6,
+a,
+a:hover,
+p{
+  color: black;
+
+}
 
 body{
 	padding-top: 50px;
