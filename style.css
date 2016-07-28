@@ -11,3 +11,32 @@
  Tags:         custom
  Text Domain:  _tk-master
 */
+
+/* NAVBAR STYLES */
+
+.navbar{ 
+	background-color: white;
+	border: white;
+	text-align: center;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar-brand {
+	display: none; 
+}
+
+
+body{
+	padding-top: 50px;
+}
+
+
